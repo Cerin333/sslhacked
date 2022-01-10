@@ -74,6 +74,16 @@ header #github i {
     border: solid 1px rgb(255, 255, 255, .2);
 }
 
+.container1 {
+    width: 900px;
+    background: #23272a;
+    padding: 25px;
+    margin: 5px 0px;
+    text-align: center;
+    display: block;
+    border: solid 1px rgb(255, 255, 255, .2);
+}
+
 .form input {
     width: calc(100% - 64px);
     height: 50px;
@@ -100,7 +110,7 @@ header #github i {
 }
 
 .form button1 {
-    width: calc(100% - 64px);
+    width: 60px;
     height: 50px;
     left: 0;
     color: #FFF;
