@@ -100,14 +100,12 @@ header #github i {
 }
 
 .form button1 {
-    width: 60px;
-    height: 50px;
-    /*text-align: center;  */
-    color: #FFF;
-    padding: 5px 5px;
-    font-family: "Roboto";
-    font-size: 14px;
-    background: none;
-    border-radius: 2px;
-    border: solid 5px rgb(255, 255, 255, .2);
+   /* Setting Height and Width of Rectangle */
+        .ellipse{
+            height: 100px;
+            width: 150px;
+            background-color: green;
+  
+            /* Setting Border Radius */
+            border-radius: 50%;
 }
