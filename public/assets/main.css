@@ -109,15 +109,3 @@ header #github i {
     border: solid 1px rgb(255, 255, 255, .2);
 }
 
-.form button1 {
-    width: 60px;
-    height: 50px;
-    right: 0;
-    color: #FFF;
-    padding: 0px 5px;
-    font-family: "Roboto";
-    background: none;
-    font-size: 14px;
-    border-radius: 2px;
-    border: solid 1px rgb(255, 255, 255, .2);
-}
